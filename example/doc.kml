@@ -1,0 +1,2669 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>冰冰凉发指岛</name>
+		<description><![CDATA[iceland]]></description>
+		<Folder>
+			<name>South and East</name>
+			<Placemark>
+				<name>KEF机场</name>
+				<description><![CDATA[冰岛的插座是欧洲德标，所以国内过来的朋友还得记着带上转换插头。<br>冰岛最硬的通货是欧元。如果要换汇，最佳的所在是机场出口的“雷锋号”换汇中心，不仅不收手续费，牌价更是相当人性。<br>记得租车的时候，向租车公司索要N1加油优惠卡，免费咖啡券<br>冰洞：http://www.localguide.is/localguide/Ice_Cave_Tour.html<br>【租车】没有用大公司的，因为当时比较一下以后发现本地的一些租车公司更便宜。可以随便搜索iceland car rental什么的，会出来不少公司的。冰岛自驾我原则上喜欢租四驱，就算不一定需要四驱的动力，底盘高一点走很多小路也比较有优势。而且非四驱是禁止开F开头的路的，这里再强调一下。否则所有保险失效。http://www.iceland4x4carrental.com/]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-22.62340800000004,63.996136,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blue Lagoon - Clinic</name>
+				<description><![CDATA[温泉酒店。Clinic有只供住客的私家池。酒店也每天赠送客人公共池的票，完全没用上。穿上防雨夹克，防雨裤，防雨鞋，大雨中溜达到公共池去拍照。当时还不知道，这套行头在以后的日子里天天穿着没变过。晚饭在公共池边的Lava Restaurant吃的，很贵，味道一般般，真不如开车去Keflavik吃呢。公共池出口处有卖Blue Lagoon的护肤品的，其实最好的购买地点是在机场，价格还低，还不用退税之类的麻烦，又不用拎着一路。]]></description>
+				<styleUrl>#icon-ci-2</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-22.444790000000012,63.846191,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hallgrimskirkja</name>
+				<description><![CDATA[正态分布大教堂  北边的海边有个太阳航海者号雕塑别忘了  高近80米的路德教大教堂是几乎所有到访雷克的游客必去的所在。其外观设计的灵感来自于冰岛著名的六角型柱状玄武岩石柱。柔美的外形既似一个巨型高音G音符，当你在漫天阴霾之下望着那一排排笔直的石柱直插云天，却马上能感受到刚柔并济的美感。]]></description>
+				<styleUrl>#icon-ci-3</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-21.926637000000028,64.141715,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Laugavegur</name>
+				<description><![CDATA[Laugavegur 和 Kringlan，中心购物街和最大购物中心。要买什么东西都来这俩地方买吧。推荐购买冰岛民族服饰：大毛衣 Lopapeysa。花样复古又小清新]]></description>
+				<styleUrl>#icon-ci-4</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-21.912956699999995,64.1430237,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Laugardalur Swimming Pool</name>
+				<description><![CDATA[大游泳池：雷克雅未克最大的游泳池。水非常好，超级干净，没有漂白剂味道。呛到水也可以心安理得地咽下去。还有几个「温泉」，去看美女吧。真是泡上一天都可以啊，爽。]]></description>
+				<styleUrl>#icon-ci-5</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-21.879658999999947,64.145771,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silfra</name>
+				<description><![CDATA[据说可以潜水]]></description>
+				<styleUrl>#icon-ci-6</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-21.116870000000063,64.255344,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Thingvellir National Park</name>
+				<description><![CDATA[Golden Circle 黄金旅游线路 。黄金就黄金在离雷克雅未克很近，而且各个景点离得都很近。一圈下来可以了解冰岛的神奇之处啦。第一站 Þingvellir，古议会遗址。悬崖前面一个国旗，这是世界第一个议会召开的地方，超级适合 hiking 啊。第二站 Gullfoss 黄金瀑布。小而漂亮~第三站 Geysir 间歇泉。稍微等几分钟，就可以看到间歇泉喷涌而出！爬上旁边的山上观看更佳，还能领略广阔的平原上几个农场人家的孤独感，写诗吧！]]></description>
+				<styleUrl>#icon-ci-7</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-21.07962299999997,64.266283,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kerið</name>
+				<description><![CDATA[Kerið 火山湖，火山口里的湖  Kerið Crater火山坑。唯一一个要交费的景点。可能是阴天的原因，水不够好看，拍了几张照就撤了。收费的反而是最没有看头的景点了。]]></description>
+				<styleUrl>#icon-ci-8</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-20.885137999999984,64.041278,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Laugarvatn</name>
+				<description><![CDATA[可泡温泉。]]></description>
+				<styleUrl>#icon-ci-9</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-20.714785000000006,64.2121461,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Geysir</name>
+				<description><![CDATA[黄金圈]]></description>
+				<styleUrl>#icon-ci-10</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-20.299541999999974,64.313879,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gullfoss Waterfall</name>
+				<description><![CDATA[黄金圈。如果阳光好能看到两道彩虹。某个角度能看到三道彩虹。]]></description>
+				<styleUrl>#icon-ci-11</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-20.125752000000038,64.324777,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Landmannalaugar</name>
+				<description><![CDATA[五彩景区，山下有热河]]></description>
+				<styleUrl>#icon-ci-12</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-19.059639999999945,63.99230800000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Seljalandsfoss</name>
+				<description><![CDATA[可以绕到水帘后面看瀑布。]]></description>
+				<styleUrl>#icon-ci-13</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-19.990182000000004,63.615818000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Seljavallalaug</name>
+				<description><![CDATA[冰岛最古老的游泳池，在河边上。]]></description>
+				<styleUrl>#icon-ci-14</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-19.627099999999928,63.559599999999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Skogarfoss (waterfall)</name>
+				<styleUrl>#icon-ci-15-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-19.511031000000003,63.532216,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sólheimasandur Plane Wreck</name>
+				<description><![CDATA[Turnoff GPS Coordinates<br><br>63.4912391,-19.3632810<br>http://expertvagabond.com/airplane-crash-wreckage-iceland/<br>Airplane GPS Coordinates<br><br>63.459523,-19.364618]]></description>
+				<styleUrl>#icon-ci-16</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-19.364618000000064,63.45952299999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dyrhólaey</name>
+				<description><![CDATA[Dyrhólaey，拍黑沙滩和三块石头<br><br>黑沙滩区域有两块值得看的地方：一个是沿1号公路转到215号路的尽头，那片有奇特的basalt石头山；另一个则是1号路转到218号路的尽头，其实跟石头山隔个出海口不能直接到达而已，这片有象鼻山，也就是地图上说的Dyrhólaey。]]></description>
+				<styleUrl>#icon-ci-17</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-19.12633900000003,63.399594,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vik i Myrdal Church</name>
+				<description><![CDATA[前面拥有大片鲁冰花前景的教堂]]></description>
+				<styleUrl>#icon-ci-18</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-19.00299999999993,63.420551,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fjaðrárgljúfur</name>
+				<description><![CDATA[峡谷]]></description>
+				<styleUrl>#icon-ci-19</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-18.171816000000035,63.771279,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Svartifoss - Black Waterfall </name>
+				<description><![CDATA[Basalt石头上面的瀑布。单程1.5km的trail]]></description>
+				<styleUrl>#icon-ci-20</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-16.975433000000066,64.027542,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jökulsárlón - Glacier Lagoon</name>
+				<description><![CDATA[非常梦幻的地方。泰坦尼克号跟权利的游戏（Game of Thrones）第二季都在这里取景。冬天有机会可以看到海豹，另外不要只在湖边看冰，过桥，在湖水入海口会有大大小小的冰块被卷到沙滩上，阳光下，深色的沙滩更趁出冰块的剔透；]]></description>
+				<styleUrl>#icon-ci-21</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-16.181123,64.044612,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Litlanesfoss</name>
+				<description><![CDATA[Litlanesfoss和Hengifoss瀑布并不像Seljalandsfoss 和 Skógafos那样人尽皆知，因为她们藏匿在深山里，需要走一段2.5公里的trail。但Hengifoss在冰岛却赫赫有名，高达128米，是冰岛第三高的瀑布（2011年新发现的227米的Morsárfoss排名第一，198米的Glymur排第二）， 它被一层层的玄武岩包围，岩石层之间是红色黏土层，宛如阶梯状，层层错落有致，红黑交杂。而 Litlanesfoss 则闻名于2012年NG上一幅照片，被六角柱状玄武岩包围的Litlanesfoss在一片暗红色岩石衬托下分两级跃下深潭，山石雄奇，瀑布俏丽，再抬头Hengifoss就在前方不远处，那一张照片让你瞬间觉得世上再无第二个瀑布可以如此迂回秀美。]]></description>
+				<styleUrl>#icon-ci-22</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-14.884070999999949,65.08383,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vesturhorn Mountain</name>
+				<description><![CDATA[经纬度64.2666667, -14.950000 水位高的时候好看   还有Lækjavík Coast待查Getting to Vesturhorn<br><br>    On the Ring Road driving East pass the town of Höfn. After 7 km turn right(south) onto an unmarked dirt road just before the tunnel. Follow this road for over 5km and you will reach a cafe with the statue you see in picture below<br>    Pay the fee in the box<br><br>Visiting Vesturhorn<br><br>    You can stop at the café and walk down to the black sand beach<br>    Or you can drive the road towards the military base that is not military anymore I think. There you have to stop, then turnaround and admire the view. You can walk in the sand dunes to get some nice foreground to the mountains]]></description>
+				<styleUrl>#icon-ci-23</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-14.9932063,64.2533546,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lækjavík Coast  
+</name>
+				<description><![CDATA[64.4765320 -14.49233899]]></description>
+				<styleUrl>#icon-ci-24</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-14.492338990000007,64.476532,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Borgarfjörður Eystri</name>
+				<description><![CDATA[Borgarfjörður峡湾以Puffin出名，对，就是那个长相呆萌被冰岛列为国鸟的北极海鹦。]]></description>
+				<styleUrl>#icon-ci-25</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-13.818204499999979,65.5265799,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dettifoss Waterfall</name>
+				<description><![CDATA[65.8166667, -16.4.  862走上去看到的瀑布不如864多，而且864可以摸到瀑布。顶端两条路不交汇，分列在峡谷两侧。<br>这两大瀑布就是Dettifoss和Selfoss。大名鼎鼎的Dettifoss是2012年科幻大片《普罗米修斯》的外景拍摄地，被成为欧洲最雄伟的瀑布。湍急河流携带着泥沙从宽百米高四十米的断崖跌落谷地，把这片异域景象演绎的淋漓尽致。而上游的Selfoss则由无数小瀑布组成，比起Dettifoss显得阴柔很多。Dettifoss，Selfoss和下游的Hafragilsfoss构成了三级瀑布，源自瓦特纳冰原，流入Jökulsárgljúfur峡谷。]]></description>
+				<styleUrl>#icon-ci-26</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-16.385658000000035,65.815117,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ásbyrgi Canyon (Shelter of the Gods) </name>
+				<description><![CDATA[66.014444, -16.503333]]></description>
+				<styleUrl>#icon-ci-27</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-16.505538,66.01777249999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Húsavík</name>
+				<description><![CDATA[出海看鲸鱼]]></description>
+				<styleUrl>#icon-ci-28</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-17.338344300000017,66.0449706,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Krafla</name>
+				<description><![CDATA[Krafla和Askja是米湖火山姐妹花。 Askja像极了俄勒冈的火山湖国家公园，号称是冰岛最美的火山口。曾有摄影师把Krafla和Askja放在同一张画面里，远处的Askja被雪山环绕湖水清澈而近处的Krafla则像深陷的大坑，聚集了绿色的湖水。色彩的对比让人惊叹不已。可通往Askja的山路此时尚未开通，我们只能去一睹Krafla真貌了。<br><br>Krafla附近分布着数十个地热泉，史上喷发过29次，至今地下仍有强烈的岩浆活动，所以这里也被开发成了一座地热电站。可真当你走上火山湖边沿，望一眼这皑皑白雪覆盖的火山池壁底下波澜不惊的通透的碧绿色湖水，世界却是那么安宁。]]></description>
+				<styleUrl>#icon-ci-29</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-16.754419900000016,65.7171196,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hverir</name>
+				<description><![CDATA[硫磺味道的地方，像黄石]]></description>
+				<styleUrl>#icon-ci-30</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-16.80931099999998,65.640914,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mývatn Nature Baths</name>
+				<description><![CDATA[米湖周边叫Diamond Circle。米湖温泉每天12点到22点开。65.625 , -16.842]]></description>
+				<styleUrl>#icon-ci-31</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-16.84800599999994,65.630966,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grjótagjá</name>
+				<description><![CDATA[65.630222, -16.879542 米湖附近的一个小火山洞Grjótagjá，在860边上。里面有一汪蓝色的温泉，泉水温度最高可达五十摄氏度左右。这里立着一个牌子，禁止游人在此泡温泉，但无人看守。这个洞穴在电视剧《权利的游戏》中也有出境，是Jon Snow与Ygritte的“爱巢”。 洞是朝东的，上午来拍照比较好。]]></description>
+				<styleUrl>#icon-ci-32</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-16.8793774,65.6300101,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hverfjall</name>
+				<description><![CDATA[火山 65.6, -16.8833333]]></description>
+				<styleUrl>#icon-ci-33</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-16.87434499999995,65.602474,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dimmuborgir</name>
+				<description><![CDATA[由于岩浆流动而形成的迷宫一样的一片风光，最著名的是熔岩拱门Kirkja，因为大量岩浆流过时，表面已经凝固，但是里面的岩浆仍然在流动，当岩浆流走了以后就形成了像拱门一样的奇特地貌。]]></description>
+				<styleUrl>#icon-ci-34</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-16.920384499999955,65.5954915,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Godafoss Waterfall</name>
+				<description><![CDATA[神之瀑布 65.6833333, -17.55]]></description>
+				<styleUrl>#icon-ci-35</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-17.550823000000037,65.682995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Akureyri</name>
+				<description><![CDATA[有一个植物园。]]></description>
+				<styleUrl>#icon-ci-36</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-18.126169300000015,65.68849209999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Drangey</name>
+				<styleUrl>#icon-ci-37-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-19.685426099999972,65.9486932,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ketubjörg</name>
+				<description><![CDATA[入海的瀑布]]></description>
+				<styleUrl>#icon-ci-38</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-20.006666699999982,66.0333333,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Northwest</name>
+			<Placemark>
+				<name>Drangsnes</name>
+				<description><![CDATA[Drangsnes free hot-pots就在公路边。 If you didn’t know they were there you’d drive straight past them. The only clue is the changing rooms on the other side of the road.]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-21.49741199999994,65.693663,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Restaurant Djúpavík</name>
+				<description><![CDATA[有个海边的游泳池]]></description>
+				<styleUrl>#icon-ci-39</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-21.557462999999984,65.944683,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Krossneslaug</name>
+				<description><![CDATA[Krossnes Swimming pool<br><br>Norðurfjörður<br>GPS Points N66° 2' 49.573" W21° 30' 15.642"]]></description>
+				<styleUrl>#icon-ci-40</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-21.508526999999958,66.056259,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ísafjörður</name>
+				<description><![CDATA[Tjöruhúsið。这个是个自助餐形式的小饭店，主要是现做的各种鱼。老板每天去渔港采购新鲜的鱼。晚餐7点开饭。来早了还得等着。我们6点45到的。一开始不知道怎么回事儿。服务生是个中年妇人，好像不太会说英文，一个人也忙不过来，把我们安顿好座位之后，给两杯凉水，就再也没招呼我们，用冰岛语招呼本地客人倒是很热情，话说个不停，看来都是熟客。几个游客面孔的人，每人前面放着一盘汤，茫然的互相看着。于是跑到前面去，看着一个有着老板气质的大叔在柜台后忙活，就问他：这怎么个吃法啊？<br><br>他果然就是老板，说“5000kr，随便吃，有面包，有鱼汤。”<br><br>指着一个柜台上一块空的地方说：“这里会有蔬菜！”<br><br>又指着另一块圆圆的台子说“这里会有鱼！”<br><br>我使劲眨了眨眼，蔬菜和鱼的，这在给我们画大饼吗？<br><br>他接着说：过一会就上来了。<br><br>LP问：有啥鱼啊？<br><br>老板指着旁边墙上的一幅图说“这些鱼！”<br><br>一看，好家伙，密密麻麻的画了有100种鱼，有木有……但是光看照片，也看不出味道来。后来在网上看到，如果你特想吃某种鱼，可以提前两三天给店主电话，他到时候会给你准备。不过前提是你得能撑到那一波端出来。<br><br>抓了一个盘子，盛了一勺鱼汤，回到座位上慢慢喝。尝着有点咸，就到了半杯水进去。结果喝了半天汤，还是满满一汤盘。不行啊，得给后面的鱼留点肚子呀。<br><br>过一会鱼上来了。六个煎锅，嘶嘶作响，每个锅里差不多有6，7大片鱼柳。没照片，这时候顾不上这些了，先满足温饱基本需求再说。本大叔头一个冲过去，不太好意思拿太多，每样很斯文的铲了一小块。站我后面的老兄可不矫情，一铲一条，一铲又一条的。后面排的队伍已经好长了。每个煎锅都是不同味道的。等我再排下一轮的时候，大半已经没有了。但是很快，嘶啦嘶啦的又上来六锅，还是不同做法的。就这样，新的鱼流水一般的上来，流水一般的被吃客们速度干掉。大部分味道都做得很好。最好吃的是那个fish cheek，是鱼唇吗？一会儿就吃饱了。]]></description>
+				<styleUrl>#icon-ci-41</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-23.126666999999998,66.075833,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bolungarvik</name>
+				<description><![CDATA[The botanical garden is in the centre of Bolungarvík (by the community centre). Each plant is labelled with its name in Icelandic, Latin, English and German. Habitat descriptions are also in English. Symbols show how Icelanders have used wild plants throughout history, as food, in medicine and in magic.]]></description>
+				<styleUrl>#icon-ci-42</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-23.258200200000033,66.15755539999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Þingeyri</name>
+				<description><![CDATA[到ÞINGEYRI之前的最后一个山坡有个急转弯，转弯处有个风景点的花的标志。我们在此停下车。网上看到这个地方拍的很美的照片。有很多lupine.]]></description>
+				<styleUrl>#icon-ci-43</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-23.5,65.87944399999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dynjandi Waterfall</name>
+				<description><![CDATA[N65° 44' 11.214" W23° 12' 31.185"]]></description>
+				<styleUrl>#icon-ci-44</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-23.19984199999999,65.732813,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Reykjarfjordur by fjord Arnarfjordur</name>
+				<description><![CDATA[N65° 37' 22.123" W23° 28' 13.865"<br><br>The swimming pool in Reykjarfjodur, a fjord that is going into the big Arnarfjodur, is a full size swimming pool heated by natural water that runs in the pool all year around.<br><br>A small shed is beside the pool that guests can use to change into the bathing gear.<br><br>Just above the swimming pool there is a hot natural pool.<br><br>Admittance is free]]></description>
+				<styleUrl>#icon-ci-45</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-23.470518055555544,65.62281194444444,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Samúel Jónsson´s Art Museum
+</name>
+				<description><![CDATA[Brautarholt, Selárdalur<br>GPS Points N65° 47' 16.680" W23° 59' 28.021"]]></description>
+				<styleUrl>#icon-ci-46</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-23.991116944444457,65.78796666666666,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tálknafjörður</name>
+				<description><![CDATA[温泉泳池。Pollurinn or the puddle is a bit outside of the Town of Tálknafjörður, up in the hillside. The pool has two shallow pools and one deeper. The pools have a changing facility and the area is maintained by the municipal of Tálknafjörður.]]></description>
+				<styleUrl>#icon-ci-47</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-23.820323,65.6268886,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Látrabjarg cliffs</name>
+				<description><![CDATA[Látrabjarg cliffs N65° 30' 8.760" W24° 31' 46.749" 冰岛的国鸟海鹦鹉（Puffin）孵蛋期结束，西峡8月初，东峡8月底之后，所有的puffin都会离开Iceland，飞到远离陆地的海洋上，直到来年的4月份，回巢产卵。看puffin最好的地方就是在西峡湾的最西端Látrabjarg cliffs。距离这憨憨的肥鸟2-3米的距离和它们对眼儿，可比老远拿望远镜或者长焦镜头看要真实的多。]]></description>
+				<styleUrl>#icon-ci-48</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-24.5302391,65.5027147,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brjánslækur ferry
+</name>
+				<styleUrl>#icon-ci-49-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-23.1978035,65.5296067,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stykkishólmur ferry
+</name>
+				<description><![CDATA[Stykkishólmur，坐船去西峡湾, 两个小时的航行时间。54号公路在Stykkishólmur之后就不是柏油路了，成了土路。所以坐船更舒服和快捷。码头旁边有个小山，可以沿楼梯上去，俯瞰小镇]]></description>
+				<styleUrl>#icon-ci-50</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-22.725000000000023,65.075,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kirkjufell</name>
+				<description><![CDATA[教堂山（Kirkjufell Mountain） 草帽山 kirkufell。从这个角度看，就是一个完美的锥形。虽然没看到网上照片的双彩虹，但是晴到可以看到锥子顶了，夫复何求？其实最佳的拍摄地点是在马路对面的两个小瀑布后面。这样山不会显得太大。]]></description>
+				<styleUrl>#icon-ci-51</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-23.30694440000002,64.9416667,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Snaefellsjoekull National Park</name>
+				<description><![CDATA[地心历险记，也可以看国鸟  斯奈山半岛，被誉为冰岛缩影，火山峡湾冰川瀑布，冰岛风光最重要的组成部分，这里一应俱全。而最负盛名的则是斯奈山国家公园（Snæfellsjökull National Park），公园的标志则是海拔1446米的斯奈山火山及其顶部千年不化的斯奈山冰川。斯奈山的圣名源自凡尔纳的《地心游记》，里面这样写道：“That is Snaefellsjokull a mountain about five thousand feet in height, one of the most remarkable in the whole island, and certainly doomed to be the most celebrated in the world, for through its crater we shall reach the centre of the earth.” 斯奈山是这星球上唯一能够直通地心的通道，“Go down into the crater of Snaefells Yocul which the shadow of Scartaris caresses before the calends of July, O audacious traveller, and you will reach the centre of the Earth. I did it. Arne Saknussemm”。]]></description>
+				<styleUrl>#icon-ci-52</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-23.88252,64.818738,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fljotstunga Lava Cave</name>
+				<styleUrl>#icon-ci-53-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-22.0181465,64.8667329,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Deildartunguhver</name>
+				<description><![CDATA[水量最大的温泉]]></description>
+				<styleUrl>#icon-ci-54</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-20.773754499999995,64.753098,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Deildartunguhver</name>
+				<description><![CDATA[水量最大的温泉]]></description>
+				<styleUrl>#icon-ci-55</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-21.411666999999966,64.664254,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fish Market (Fiskmarkaðurinn)</name>
+				<description><![CDATA[吃!]]></description>
+				<styleUrl>#icon-ci-56</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-21.942272000000006,64.147726,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hvitserkur</name>
+				<description><![CDATA[Sea arch.  据说有海豹看。小村落Vatnsnes。Vatnsnes以海豹出名，隔着峡湾可以看到上百只海豹懒洋洋的躺在沙滩上晒肚皮，可真正吸引游客绕行至此的原因却是格陵兰海上的一块巨石，Hvítserkur Troll。在冰岛海里面耸立的玄武石随处可见，可能够成为冰岛名片的却只有Hvítserkur，一头在格陵兰海里饮水的犀牛（有人说像史前恐龙之类等等）。]]></description>
+				<styleUrl>#icon-ci-57</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-20.635672,65.606315,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-ci-1-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-1.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-1-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-1.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-10-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-10.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-10-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-10.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-11-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-11.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-11-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-11.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-11'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-11-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-11-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-12-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-12.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-12-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-12.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-12'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-12-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-12-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-13-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-13.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-13-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-13.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-13'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-13-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-13-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-14-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-14.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-14-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-14.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-14'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-14-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-14-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-15-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-15.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-ci-15-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-15.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-ci-15-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-15-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-15-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-16-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-16.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-16-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-16.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-16'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-16-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-16-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-17-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-17.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-17-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-17.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-17'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-17-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-17-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-18-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-18.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-18-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-18.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-18'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-18-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-18-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-19-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-19.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-19-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-19.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-19'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-19-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-19-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-2-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-2.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-2-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-2.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-2'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-2-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-2-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-20-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-20.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-20-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-20.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-20'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-20-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-20-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-21-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-21.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-21-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-21.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-21'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-21-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-21-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-22-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-22.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-22-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-22.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-22'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-22-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-22-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-23-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-23.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-23-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-23.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-23'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-23-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-23-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-24-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-24.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-24-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-24.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-24'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-24-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-24-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-25-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-25.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-25-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-25.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-25'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-25-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-25-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-26-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-26.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-26-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-26.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-26'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-26-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-26-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-27-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-27.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-27-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-27.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-27'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-27-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-27-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-28-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-28.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-28-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-28.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-28'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-28-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-28-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-29-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-29.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-29-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-29.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-29'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-29-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-29-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-3-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-3.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-3-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-3.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-3'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-3-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-3-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-30-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-30.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-30-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-30.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-30'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-30-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-30-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-31-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-31.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-31-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-31.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-31'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-31-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-31-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-32-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-32.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-32-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-32.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-32'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-32-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-32-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-33-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-33.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-33-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-33.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-33'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-33-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-33-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-34-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-34.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-34-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-34.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-34'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-34-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-34-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-35-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-35.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-35-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-35.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-35'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-35-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-35-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-36-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-36.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-36-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-36.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-36'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-36-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-36-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-37-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-37.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-ci-37-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-37.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-ci-37-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-37-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-37-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-38-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-38.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-38-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-38.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-38'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-38-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-38-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-39-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-39.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-39-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-39.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-39'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-39-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-39-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-4-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-4.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-4-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-4.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-4'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-4-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-4-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-40-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-40.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-40-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-40.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-40'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-40-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-40-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-41-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-41.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-41-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-41.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-41'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-41-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-41-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-42-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-42.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-42-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-42.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-42'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-42-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-42-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-43-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-43.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-43-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-43.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-43'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-43-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-43-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-44-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-44.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-44-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-44.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-44'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-44-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-44-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-45-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-45.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-45-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-45.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-45'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-45-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-45-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-46-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-46.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-46-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-46.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-46'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-46-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-46-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-47-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-47.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-47-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-47.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-47'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-47-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-47-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-48-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-48.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-48-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-48.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-48'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-48-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-48-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-49-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-49.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-ci-49-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-49.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-ci-49-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-49-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-49-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-5-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-5.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-5-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-5.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-50-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-50.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-50-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-50.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-50'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-50-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-50-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-51-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-51.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-51-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-51.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-51'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-51-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-51-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-52-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-52.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-52-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-52.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-52'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-52-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-52-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-53-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-53.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-ci-53-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-53.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-ci-53-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-53-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-53-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-54-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-54.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-54-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-54.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-54'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-54-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-54-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-55-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-55.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-55-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-55.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-55'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-55-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-55-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-56-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-56.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-56-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-56.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-56'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-56-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-56-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-57-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-57.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-57-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-57.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-57'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-57-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-57-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-6-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-6.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-6-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-6.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-6'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-6-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-6-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-7-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-7.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-7-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-7.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-7'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-7-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-7-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-8-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-8.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-8-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-8.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-8'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-8-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-8-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-ci-9-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-9.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-ci-9-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-9.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-ci-9'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-ci-9-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-ci-9-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
