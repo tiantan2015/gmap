@@ -30,6 +30,16 @@ sub NumberIndexToAlphabeta
    }
 }
 
+sub format_latitude
+{
+   my ($latitude) = @_;
+   
+   my @segs = split(/,/, $latitude);
+   my @results = map({sprintf("%.5f", $_)} @segs);
+   
+   return $results[0].",".$results[1];
+}
+
 sub main
 {
    my $xml = new XML::Simple;
@@ -68,7 +78,7 @@ sub main
             print NumberIndexToAlphabeta($index);
             print " ";
 
-            print $place->{'name'}[0]." ".$place->{'Point'}[0]{'coordinates'}[0]."\n";
+            print $place->{'name'}[0]." ".format_latitude($place->{'Point'}[0]{'coordinates'}[0])."\n";
             if( $description =~ /\S+/)
             {
                $description =~ s/<br>/\n/gs;
